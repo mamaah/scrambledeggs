@@ -1,13 +1,13 @@
 #stage 1, the input for scrambled eggs
 eggs = 4 to 6
 milk = 4 to 6 tablespoon
-1/4 teaspoon of salt 
-1/4 teaspoon of pepper
-1 teaspoon butter
-a skillet
-a deep bowl
-a whisk
-a serving plate
+salt = 1/4 teaspoon 
+pepper = 1/4 teaspoon 
+butter = 1 teaspoon 
+skillet = large
+bowl = deep 
+whisk = 1
+serving plate = 1
 # stage 2, the process
 go to kroger and purchase listed items
 Beat the eggs with the whisk for 20 to 35 seconds in the bowl
