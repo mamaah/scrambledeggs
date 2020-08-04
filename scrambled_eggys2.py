@@ -1,6 +1,6 @@
 #stage 1, the input for scrambled eggs
-eggs = 4 to 6
-milk = 4 to 6 tablespoon
+eggs = 4 
+milk = 4 tablespoon
 salt = 1/4 teaspoon 
 pepper = 1/4 teaspoon 
 butter = 1 teaspoon 
